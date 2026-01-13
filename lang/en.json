@@ -16,7 +16,8 @@
       "defaultFont": "Default Font",
       "journalTheme": "Journal Theme",
       "journalHeaderFont": "Header Font",
-      "journalBodyFont": "Body Font"
+      "journalBodyFont": "Body Font",
+      "highconstrast": "High-Constrast"
     },
     "JOURNAL": {
       "ThemeTooltip": "Click to open the Theme and Font selector",
